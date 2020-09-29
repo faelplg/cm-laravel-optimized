@@ -3,7 +3,7 @@ Curso de Microsserviços:
 
 ## Módulo: DEVOPS
 
-### Exercício: Processo de CI
+### Exercício: Desafio Docker
 * Autor: Rafael Goulart
   * E-mail cadastrado: rafaelgoulart@residuall.org
   * E-mail pessoal: faelplg@gmail.com
@@ -11,11 +11,10 @@ Curso de Microsserviços:
 #### Tarefa 1
 * Nome do artefato: `cm-laravel-optimized`
 * [Repositório do GitHub (este)](https://github.com/faelplg/cm-laravel-optimized)
-* Descrição:
-  * Processo de CI executando sem problemas no Google Cloud Build.
 
-#### Tarefas 2
-* Nome do artefato: `cm-laravel-optimized`
-* [Repositório do GitHub (este)](https://github.com/faelplg/cm-laravel-optimized)
-  * Gatilho / trigger configurado corretamente para disparar quando um pull request é realizado no repositório.
+#### Tarefas 2 e 3
+* Nome do artefato: `cm-go-cerocks`
+* Nome da imagem: `faelplg/codeeducation`
+* [Imagem no Docker Hub](https://hub.docker.com/r/faelplg/codeeducation)
+  * Rodando a imagem: `docker run faelplg/codeeducation`
 
